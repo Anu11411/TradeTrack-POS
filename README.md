@@ -38,9 +38,31 @@ You must have the following programs/packages to run this project:
 ## Screenshots
 
 ### Screenshot - 1
-![Screenshot 1](link_to_screenshot1)
+![Screenshot 1](https://github.com/Anu11411/TradeTrack-POS/blob/main/screenshots/StartingInterface.png?raw=true)
 
 ### Screenshot - 2
-![Screenshot 2](link_to_screenshot2)
+![Screenshot 2](https://github.com/Anu11411/TradeTrack-POS/blob/main/screenshots/Photo%20of%20Graph.png?raw=true)
+
+### Screenshot - 3
+![Screenshot 3](https://github.com/Anu11411/TradeTrack-POS/blob/main/screenshots/3.png?raw=true)
+
+### Screenshot - 4
+![Screenshot 4](https://github.com/Anu11411/TradeTrack-POS/blob/main/screenshots/4.png?raw=true)
+
+### Screenshot - 5
+![Screenshot 5](https://github.com/Anu11411/TradeTrack-POS/blob/main/screenshots/5.png?raw=true)
+
+### Screenshot - 6
+![Screenshot 6](https://github.com/Anu11411/TradeTrack-POS/blob/main/screenshots/6.png?raw=true)
+
+### Screenshot - 7
+![Screenshot 7](https://github.com/Anu11411/TradeTrack-POS/blob/main/screenshots/7.png?raw=true)
+
+### Screenshot - 8
+![Screenshot 8](https://github.com/Anu11411/TradeTrack-POS/blob/main/screenshots/8.png?raw=true)
+
+### Screenshot - 9
+![Screenshot 9](https://github.com/Anu11411/TradeTrack-POS/blob/main/screenshots/9.png?raw=true)
+
 
 
